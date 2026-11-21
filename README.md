@@ -25,7 +25,7 @@ phase) + bishop pair + king pawn shield.
 
 ## Files
 
-- `main.py` — the packed engine (3,968 bytes), the entrypoint.
+- `main.py` — the packed engine (4,050 bytes), the entrypoint.
 - `engine.py` — the readable source (not committed; the bundle carries it).
 - `LICENSE` — MIT. `README.md` — this file.
 - `.makefun/owner.json` — the wallet that owns the entry.
